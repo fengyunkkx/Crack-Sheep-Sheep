@@ -42,3 +42,4 @@ https://cat-match.easygame2021.com/sheep/v1/game/map_info?map_id=80001
 
 1. 仅供技术交流，也可以抚慰一下始终无法过关的心灵。
 2. 如果想真一点，建议过 12 分钟左右再通关，否则很容易看出是作弊了。
+3. 仓库中提供了一个 [snippet](Crack-Sheep-Sheep.snippet) 文件，可以下载到本地后导入。
